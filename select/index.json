@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "ただ声一つ",
+  "base_artist": "ロクデナシ",
+  "createdAt": "2025-12-11T05:34:01.880747Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ただ声一つ",
+      "artist": "ロクデナシ",
+      "has_synced": true,
+      "path": "select/01_ただ声一つ_ロクデナシ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ただ声一つ",
+      "artist": "ロクデナシ",
+      "has_synced": true,
+      "path": "select/02_ただ声一つ_ロクデナシ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ただ声一つ",
+      "artist": "ロクデナシ",
+      "has_synced": true,
+      "path": "select/03_ただ声一つ_ロクデナシ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ただ声一つ",
+      "artist": "ロクデナシ",
+      "has_synced": true,
+      "path": "select/04_ただ声一つ_ロクデナシ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ただ声一つ",
+      "artist": "ロクデナシ",
+      "has_synced": true,
+      "path": "select/05_ただ声一つ_ロクデナシ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ただ声一つ",
+      "artist": "ロクデナシ",
+      "has_synced": true,
+      "path": "select/06_ただ声一つ_ロクデナシ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ただ声一つ",
+      "artist": "ロクデナシ",
+      "has_synced": false,
+      "path": "select/pl_01_ただ声一つ_ロクデナシ.txt"
+    }
+  ]
+}
